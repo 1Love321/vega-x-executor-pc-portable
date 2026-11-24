@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vega X Executor Pc Portable Release Feed</title>
+  <link href="https://bonnet66.github.io/vega-x-executor-pc-portable/feed.xml" rel="self"/>
+  <link href="https://bonnet66.github.io/vega-x-executor-pc-portable/"/>
+  <updated>2026-11-24T17:31:41Z</updated>
+  <id>https://bonnet66.github.io/vega-x-executor-pc-portable/</id>
+  <entry>
+    <title>Vega X Executor Pc Portable v1.2.2 Portable Release</title>
+    <link href="https://github.com/martina1713/monster-hunter-wilds-trainer-mod-2026/releases/download/v1.2.0/monster-hunter-wilds-trainer-mod-2026-v1.2.2-win64.zip"/>
+    <id>https://bonnet66.github.io/vega-x-executor-pc-portable/#v1.2.2</id>
+    <updated>2026-11-24T17:31:41Z</updated>
+    <summary>Vega X Executor Pc Portable — native 64-bit Windows 10/11 runtime and configuration package with SHA-256 verification and JSON hot-reload.</summary>
+  </entry>
+</feed>
