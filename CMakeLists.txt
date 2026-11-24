@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(vega_x_executor_pc_portable LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(vega_x_executor_pc_portable src/vega_x_executor_pc_portable_core.cpp)

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonnet66.github.io/vega-x-executor-pc-portable/sitemap.xml
